@@ -1,0 +1,9 @@
+{
+  "name": "cis-1090-lab10",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
